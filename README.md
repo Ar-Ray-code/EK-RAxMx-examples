@@ -39,8 +39,8 @@
 | SPI_SCK | - | | 9 |
 | SPI_CS | - | | 89 |
 | USB CDC | ✅ | USB CDC (USB HIGH SPEED) |
-| Serial1.TX | ✅ | 49 |
-| Serial1.RX | ✅ | 50 |
+| Serial1.TX | ✅ | UART1_TX_PIN | 49 |
+| Serial1.RX | ✅ | UART1_RX_PIN | 50 |
 
 
 ## 注意点
