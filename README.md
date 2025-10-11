@@ -23,7 +23,11 @@
 
 ## 特定のピン
 
+全てのピン定義は、それぞれのボードのデータシートを参考にしてください。
+
 ### EK-RA6M5
+
+ピン対応一覧 : [EK_RA6M5/variant.cpp](https://github.com/Ar-Ray-code/ArduinoCore-renesas-custom/blob/ex_boards/variants/EK_RA6M5/variant.cpp)
 
 | 対応する素子 | 対応状況 | ピン名 | 実際のピン番号 |
 | --- | --- | --- | --- |
