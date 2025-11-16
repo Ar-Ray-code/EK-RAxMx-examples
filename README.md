@@ -38,10 +38,10 @@
 | ボタン2 (S2) | - | | 17 |
 | I2C SCL | ✅ | `WIRE_SCL_PIN` | 38 |
 | I2C SDA | ✅ | `WIRE_SDA_PIN` | 37 |
-| SPI_MOSI | `PIN_SPI_MOSI` | | 42 |
-| SPI_MISO | `PIN_SPI_MISO` | | 41 |
-| SPI_SCK | `PIN_SPI_SCK` | | 9 |
-| SPI_CS | `PIN_SPI_CS` | | 89 |
+| SPI_MOSI | | `PIN_SPI_MOSI` | | 42 |
+| SPI_MISO | | `PIN_SPI_MISO` | | 41 |
+| SPI_SCK | | `PIN_SPI_SCK` | | 9 |
+| SPI_CS | | `PIN_SPI_CS` | | 89 |
 | USB CDC | ✅ | USB CDC (USB HIGH SPEED) |
 | Serial1.TX | ✅ | UART1_TX_PIN | 49 |
 | Serial1.RX | ✅ | UART1_RX_PIN | 50 |
