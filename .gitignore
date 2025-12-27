@@ -1,1 +1,3 @@
 .pio
+*.h5
+mnist_model.h

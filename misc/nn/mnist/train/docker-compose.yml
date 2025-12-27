@@ -1,0 +1,8 @@
+services:
+  mnist:
+    build:
+      context: .
+    volumes:
+      - ../../../..:/workspace
+    working_dir: /workspace/misc/nn/mnist/train
+    tty: true
